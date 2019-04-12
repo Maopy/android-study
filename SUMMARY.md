@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Android study](README.md)
+
+## Java Basic
+
+* [类型](java-basic/lei-xing.md)
 
