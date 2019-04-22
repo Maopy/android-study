@@ -11,5 +11,14 @@
 | char | 1 字节 | 0 ~ 65535 |
 | boolean | 1 或 4 字节 | false/true |
 
-
+| 包装类 | 对应基本类型 |
+| :--- | :--- |
+| Byte | byte |
+| Short | short |
+| Integer | int |
+| Long | long |
+| Float | float |
+| Double | double |
+| Character | char |
+| Boolean | boolean |
 
